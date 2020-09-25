@@ -4,4 +4,5 @@ Repository for the generative models training at SCAI for Astrophysics. This con
 * Auto-encoders (AEs)
 * Variational AEs (VAEs)
 * Normalizing flows
+
 All the notebooks are implemented in Tensorflow
